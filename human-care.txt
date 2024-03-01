@@ -1,0 +1,30 @@
+Caricare una foto su Instagram
+Cheese!
+Durante le vacanze ho fatto, mille mila foto, ora come faccio a scegliere quella giusta da caricare su Instagram? I paesaggi mozzafiato che ho visitato non ne avrebbero bisogno, però cercherò il filtro giusto per migliorare la luce e rendere più vividi i colori, in modo che le foto rendano giustizia alla bellezza della natura
+
+OBBIETTIVO: CERCARE LA FOTO GIUSTA DA CARICARE SU INSTA
+
+1 - CERCARE LA FOTO GIUSTA
+	- Accendere il telefono e cercare nella galleria le foto delle vacanze
+	- Scegliere la foto giusta in base al paesaggio e al momento
+		- SE la foto è giusta e piace allora si prosegue
+			ALTRIMENTI
+			- Si ritorna a scegliere una foto
+
+
+2 - CERCARE IL FILTRO GIUSTO
+
+	- Trovata la foto
+	- Scelta del filtro
+		- SE il filtro si applica correttamente allora si prosegue
+			ALTRIMENTI 
+			- Si torna a scegliere un filtro  
+
+3- PUBBLICARLA
+	
+	- Trovata la foto con il filtro giusto si pubblica
+	- SE la pubblicazione è lenta a causa della rete si riavvia il modem
+		ALTRIMENTI
+		- Si usa la rete dati 
+			ALTRIMENTI
+			- Si aspetta il caricamento
